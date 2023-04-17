@@ -1,3 +1,6 @@
+Original repository.    
+https://github.com/gridgentoo/kube-rs.    
+
 # kube-rs
 
 [![Crates.io](https://img.shields.io/crates/v/kube.svg)](https://crates.io/crates/kube)
